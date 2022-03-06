@@ -14,6 +14,13 @@
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
         </developer>
+        <developer>
+            <id>danielberes5</id>
+            <name>Dániel Csaba Béres</name>
+            <email>danielberes5@gmail.com</email>
+            <organization>University of Debrecen</organization>
+            <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+        </developer>
     </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
